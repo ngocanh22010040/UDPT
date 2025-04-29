@@ -228,3 +228,5 @@ SvelteKit, but I'm sure improvements can be made. Feel free to
 [visit the repo](https://github.com/josh-collinsworth/sveltekit-blog-starter)
 and submit a pull request, or
 [contact me directly](https://joshcollinsworth.com/contact).
+#   U D P T  
+ 
