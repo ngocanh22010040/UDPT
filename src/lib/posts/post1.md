@@ -12,7 +12,7 @@ coverHeight: 9
 excerpt: "This post demonstrates how to include a Svelte component in a Markdown post."
 ---
 
-## Định nghĩa
+## Định nghĩa 1
 
  Ứng dụng phân tán  là Hệ thống phân tán (Distributed System) — tập hợp các máy tính độc lập, kết nối với nhau qua mạng, phối hợp để thực hiện một nhiệm vụ chung. Dù các thành phần nằm ở nhiều vị trí khác nhau, hệ thống vẫn cung cấp cho người dùng một giao diện thống nhất và mạch lạc. Điều này giúp tăng cường khả năng mở rộng, độ tin cậy và hiệu suất của hệ thống.
 
